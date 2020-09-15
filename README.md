@@ -4,4 +4,4 @@
 
 Criado durante uma aula
 
-Linha editada pelo site do GitHub
+Linha editada diretamente no site do GitHub
